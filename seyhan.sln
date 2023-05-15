@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33328.57
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seyhan", "seyhan\seyhan.csproj", "{8C3FE548-CC93-4EBD-B44E-81111AB41983}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "seyhan", "seyhan\seyhan.csproj", "{8C3FE548-CC93-4EBD-B44E-81111AB41983}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp12", "ConsoleApp12\ConsoleApp12.csproj", "{B6E7EC3B-83D6-4282-89B0-821565C77592}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8C3FE548-CC93-4EBD-B44E-81111AB41983}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C3FE548-CC93-4EBD-B44E-81111AB41983}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C3FE548-CC93-4EBD-B44E-81111AB41983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E7EC3B-83D6-4282-89B0-821565C77592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E7EC3B-83D6-4282-89B0-821565C77592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E7EC3B-83D6-4282-89B0-821565C77592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E7EC3B-83D6-4282-89B0-821565C77592}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
