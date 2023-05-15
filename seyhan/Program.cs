@@ -80,15 +80,15 @@ namespace seyhan
             //x=x-1 x--
             // x = y + x;x+=y;
             //mod alma % işaretiyle gösterilir
-            //int toplam = 0;
-            //for (int i = 0; i <= 100; i++)
-            //{
-            //    if(i%2==0)
-            //    {
-            //        toplam = toplam + i;
-            //    }
+            int toplam = 0;
+            for (int i = 0; i <= 100; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    toplam = toplam + i;
+                }
 
-            //}
+            }
             int toplam = 0;
             for (int i = 1; i <=5; i++)
             {
